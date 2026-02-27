@@ -59,7 +59,19 @@
         "description": "",
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/kensei.png",
-        "coinGeckoId": "kensei"
+        "coinGeckoId": "kensei",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x56009a137ed6d56e0133a52363a78063f429ece4",
+        "name" : "Rakun",
+        "symbol": "RAKUN",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/rakun.png",
+        "coinGeckoId": "rakun-2",
+        "wallet_preload": true
     },
     {
         "type": "erc20",
